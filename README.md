@@ -1,12 +1,6 @@
 ### Hi 👋, I'm Luiz Filipy
 
----
-
-<p align="center">
-  <img src="" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
-I am a Backend Developer. 
+I am a Backend Developer.
 
 ![Profile views](https://gpvc.arturio.dev/lf2a)  <img src="https://img.shields.io/github/followers/lf2a?label=Follow" style=" float:left, margin-right:10px" />
 
