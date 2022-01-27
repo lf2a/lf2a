@@ -1,10 +1,12 @@
-# Hi there 👋, I am Luiz Filipy!
+# Hi there 👋, I'm Luiz Filipy!
 
-![Profile views](https://gpvc.arturio.dev/lf2a)  <img src="https://img.shields.io/github/followers/lf2a?label=Follow" style=" float:left, margin-right:10px" />
+## About Me :eyes:
+I'm a Software developer, with a degree in Information Systems.<br>
+I'm currently work with Java and Python.
 
-[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:luizfilipy.aa@outlook.com)](mailto:luizfilipy.aa@outlook.com)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lf2a&left_color=red&right_color=black)
 [![Linkedin Badge](https://img.shields.io/badge/-Lf2a-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lf2a/)](https://www.linkedin.com/in/lf2a/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lf2a)](https://github.com/lf2a)
 
-A software developer specializing in Java 8+ technologies for cloud services.
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lf2a&show_icons=true&theme=radical)
